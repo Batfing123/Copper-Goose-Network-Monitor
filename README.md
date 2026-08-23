@@ -1,6 +1,6 @@
 # Copper Goose Network Monitor
 
-A Windows desktop app that tells you whether a slowdown is your local network or your ISP — not just that your speed dropped, but *why*.
+A Windows desktop app that tells you whether a network slowdown or hard fault is on your local network or your ISP, bandwidth limits, keeps track of total data used and real time upload and download speeds.
 
 Most bandwidth monitors show you a graph and leave you guessing. Copper Goose Network Monitor watches your real-time upload/download speed and diagnoses the fault, so you know whether to reboot your router or call your ISP.
 
