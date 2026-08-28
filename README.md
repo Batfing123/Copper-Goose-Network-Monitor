@@ -10,6 +10,7 @@ Most bandwidth monitors show you a graph and leave you guessing. Copper Goose Ne
 - Real-time upload/download speed monitoring
 - Custom bandwidth usage limits with warnings
 - Daily and all-time usage totals
+- Detailed fault/warnings reports 
 
 ## Get it
 
