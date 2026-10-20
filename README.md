@@ -1,8 +1,8 @@
 # Copper Goose Network Monitor
 
-A Windows desktop app that watches your connection and tells you where a slowdown or outage actually is — your Wi-Fi, your router, or your ISP — instead of leaving you to guess from a graph.
+A Windows desktop app that watches your connection and tells you where a slowdown or outage actually is — Wi-Fi, Ethernet Cable, Router or ISP — instead of leaving you to guess.
 
-Most bandwidth monitors show you a graph and leave you guessing. Copper Goose Network Monitor watches your real-time upload/download speed and diagnoses the fault, so you know whether to reboot your router or call your ISP.
+Most bandwidth monitors show you a graph and leave the rest up to you. Copper Goose Network Monitor watches your real-time upload/download speed and diagnoses the fault so you know whether to reboot your router, change a cable or call your ISP.
 
 ## Features
 
