@@ -4,6 +4,8 @@ A Windows desktop app that watches your connection and tells you where a slowdow
 
 Most bandwidth monitors show you a graph and leave the rest up to you. Copper Goose Network Monitor watches your real-time upload/download speed and diagnoses the fault so you know whether to reboot your router, change a cable or call your ISP.
 
+If your connection has a data cap, you can set alert limits. The program is able to predict when a set limit will be reached.
+
 ## Features
 
 - Local network vs. ISP fault diagnosis
