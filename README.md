@@ -15,11 +15,13 @@ If your connection has a data cap, you can set your data limit and be alerted at
 - Daily and all-time usage totals
 - Data limits with 80% and 100% warnings, and forecast when you will reach that limit
 - History of faults and warnings, exportable as a report for your ISP
+- One-click switch to a phone hotspot when your main line goes down, with the outage still timed on the main line until it is back
 
 ## Get it
 
 - **Website:** https://www.coppergoosetech.com
 - **Download:** https://www.coppergoosetech.com/download
+- **Microsoft Store:** https://apps.microsoft.com/store/detail/XPDFK7G7JQQML1
 - **What's new:** https://www.coppergoosetech.com/whats-new
 - **Pricing:** free for 14 days, then $14 USD, one-time purchase — no subscription. 7-day money-back guarantee.
 
